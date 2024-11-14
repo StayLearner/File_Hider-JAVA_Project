@@ -111,4 +111,3 @@ If you have any questions or suggestions, feel free to reach out:
 
 ---
 
-You can copy and paste this README directly into your project’s repo. Let me know if you'd like any adjustments! 😊
