@@ -1,7 +1,3 @@
-Here’s a **README** for your **File Hider Tool** project with a professional touch and plenty of cool emojis:
-
----
-
 # 🔒 **File Hider Tool** 🔐
 
 Welcome to the **File Hider Tool**! This Java-based tool is designed to securely hide and unhide files on your local device. It works through a command-line interface, ensuring ease of use with a secure authentication system. Perfect for anyone looking to keep their sensitive files safe and hidden!
