@@ -48,7 +48,7 @@ Welcome to the **File Hider Tool**! This Java-based tool is designed to securely
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/a-AvgLearner/File-Hider__Java-SQL-Project__
+   git clone https://github.com/StayLearner/File_Hider-JAVA_Project.git
    ```
 
 2. **Import the Project in IntelliJ IDEA**:
