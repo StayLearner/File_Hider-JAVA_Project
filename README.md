@@ -103,7 +103,7 @@ Please make sure to follow the standard contribution guidelines.
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: [rohanghosh078@gmail.com]  
-- **GitHub**: [a-AvgLearner](https://github.com/a-AvgLearner)
+- **GitHub**: [a-AvgLearner](https://github.com/StayLearner)
 
 ---
 
